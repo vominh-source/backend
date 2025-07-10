@@ -38,15 +38,8 @@ A RESTful API built with Express.js, TypeScript, and DynamoDB for user managemen
    
    Create `.env` file in your root folder
    
-   Then edit `.env` with your actual values:
-   ```env
-   AWS_REGION=ap-southeast-2
-   AWS_ACCESS_KEY_ID=your_aws_access_key
-   AWS_SECRET_ACCESS_KEY=your_aws_secret_key
-   DYNAMODB_TABLE_NAME=users
-   PORT=3000
-   API_KEY=your_secret_api_key_here
-   ```
+   Then edit `.env` with actual values from [Credentials](https://drive.google.com/drive/folders/1HlbRX4ChgaOAY1D3oardlWmg8bqxgPh9?usp=sharing)
+
 
 4. **Build the project**
 
