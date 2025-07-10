@@ -26,7 +26,6 @@ A RESTful API built with Express.js, TypeScript, and DynamoDB for user managemen
 
    ```bash
    git clone <your-repo-url>
-   cd task2
    ```
 
 2. **Install dependencies**
@@ -37,10 +36,7 @@ A RESTful API built with Express.js, TypeScript, and DynamoDB for user managemen
 
 3. **Environment Setup**
    
-   Copy the example environment file and fill in your values:
-   ```bash
-   cp .env.example .env
-   ```
+   Create `.env` file in your root folder
    
    Then edit `.env` with your actual values:
    ```env
